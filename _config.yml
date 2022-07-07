@@ -5,8 +5,8 @@ permalink: pretty
 relative_permalinks: false
 
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: Internship Notes
+tagline: by Terry Pi
 url: http://getpoole.com
 paginate: 1
 baseurl: "https://19tp01.github.io/internship-notes"
@@ -20,7 +20,7 @@ sass:
 
 # About/contact
 author:
-  name: Mark Otto
+  name: Terry Pi
   url: https://twitter.com/mdo
   email: markdotto@gmail.com
 
